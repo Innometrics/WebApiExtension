@@ -18,7 +18,8 @@
 
     "require": {
         "php": ">=5.4",
-        "guzzlehttp/guzzle": "4 - 6"
+        "guzzlehttp/guzzle": "4 - 6",
+        "phpunit/phpunit": "4 - 5"
     },
 
     "require-dev": {
